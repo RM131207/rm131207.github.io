@@ -11,12 +11,12 @@ body{
 }
 
 .navbar .navbar-nav .nav-link:hover{
-    background-color: rgb(202, 136, 136);
+    background-color: rgb(169, 23, 222);
     color: black;
 }
 
 .navbar .navbar-nav .nav-link:active{
-    background-color: rgb(194, 84, 84);
+    background-color: rgb(169, 23, 222);
     color: black;
     font-weight: bold;
 }
@@ -30,7 +30,7 @@ body{
 .intro img{
     width: 100%;
     border-radius: 50%;
-    border: 3px solid lightblue;
+    border: 3px solid rgb(229, 24, 24);
     overflow: hidden;
 }
 
@@ -48,7 +48,7 @@ body{
 .location{
     font-size: 65px;
     text-align: center;   
-    color: red; 
+    color: rgb(5, 113, 8); 
 }
 
 .description{
@@ -65,13 +65,13 @@ body{
     .location{
         font-size: 30px;
         text-align: center;   
-        color: red; 
+        color: rgb(5, 113, 8); 
     }
 
     .intro img{
         width: 400px;
         border-radius: 50%;
-        border: 3px solid lightblue;
+        border: 3px solid rgb(229, 24, 24);
         overflow: hidden;
     }
 }
